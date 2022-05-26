@@ -2,7 +2,7 @@
 # Formulário DEV's
 
 Formulário básico desenvolvido para estudo. 
-Foi utilizado como tema o filme A viagem de Chihiro.
+Foi utilizado como tema o filme A Viagem de Chihiro.
 
 
 Ferramentas utilizadas no desenvolvimento:
